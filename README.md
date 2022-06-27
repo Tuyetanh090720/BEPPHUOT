@@ -8,6 +8,10 @@ Giảng viên phụ trách: Th.S Trình Trọng Tín.
 
 Đề tài: WEBSITE CHIA SẺ ẨM THỰC - BẾP PHƯỢT
 
+Ngôn ngữ: HTML, CSS< Javascript, PHP, MySQL.
+
+Mô hình MVC.
+
 Nhóm: 14
 
 Thành viên nhóm:
